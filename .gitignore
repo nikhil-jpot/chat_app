@@ -1,0 +1,18 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Build files
+frontend/dist/
+backend/dist/
+
+# IDE-specific files
+.vscode/
+.DS_Store
