@@ -50,7 +50,6 @@ export const Navbar = () => {
           </div>
 
     </div>
-    Navbar
     </div>
     </header>
   )
